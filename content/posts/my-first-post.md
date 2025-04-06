@@ -7,7 +7,7 @@ bookSearchExclude: false
 
 **働いて、自炊して、本を読んで、英語を勉強して、山を登って**
 
-![the bloom of cherry tree in a park](../IMG_1504.jpg)
+![the bloom of cherry tree in a park](https://ukitazume.github.io/diary/posts/IMG_1504.jpg)
 
 
 今週、新年度になった。
