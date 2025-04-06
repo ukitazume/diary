@@ -1,5 +1,5 @@
 ---
-title: "Working, cooking, reading, studying English, and climbing mountains"
+title: "2025/04/06 働いて、自炊して、本を読んで、英語を勉強して、山を登って"
 date: 2025-04-06T17:44:42+09:00
 bookComments: false
 bookSearchExclude: false
