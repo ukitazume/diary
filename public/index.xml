@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary</title>
-    <link>https://ukitazume.github.io/diary/</link>
+    <link>http://localhost:1313/diary/</link>
     <description>Recent content on Diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Apr 2025 17:44:42 +0900</lastBuildDate>
-    <atom:link href="https://ukitazume.github.io/diary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Working, cooking, reading, studying English, and climbing mountains</title>
-      <link>https://ukitazume.github.io/diary/posts/my-first-post/</link>
+      <title>2025/04/06</title>
+      <link>http://localhost:1313/diary/posts/my-first-post/</link>
       <pubDate>Sun, 06 Apr 2025 17:44:42 +0900</pubDate>
-      <guid>https://ukitazume.github.io/diary/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;20250406-働いて自炊して本を読んで英語を勉強して山を登って&#34;&gt;&#xA;  2025/04/06 働いて、自炊して、本を読んで、英語を勉強して、山を登って&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#20250406-%e5%83%8d%e3%81%84%e3%81%a6%e8%87%aa%e7%82%8a%e3%81%97%e3%81%a6%e6%9c%ac%e3%82%92%e8%aa%ad%e3%82%93%e3%81%a7%e8%8b%b1%e8%aa%9e%e3%82%92%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%a6%e5%b1%b1%e3%82%92%e7%99%bb%e3%81%a3%e3%81%a6&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;IMG_1504.jpg&lt;/p&gt;&#xA;&lt;p&gt;今週、新年度になった。&lt;/p&gt;&#xA;&lt;p&gt;子どもは保育園最後の年度。あっという間に、小学生まであと一年。土曜日にこの春に子供が小学生になった親と会話する機会があった。&lt;/p&gt;&#xA;&lt;p&gt;小学生は、保育園と違い、大変になることがあるとのこと。学童と学校とそれぞれにそれぞれの担当がいるので、二つの連絡先があり、管理が煩雑になる。小学校では登校時間が15分くらいの幅の中で決まっているため、その時間までに登校しなければいけないこと。宿題があるので、夜はそれに付き合って、それでも次の日のために、早く寝かさなければいけないこと。その方は変化に備えて、4月正社員から、業務委託に変更したと教えてくれた。&lt;/p&gt;&#xA;&lt;p&gt;自分は一人でやりくりしなければいけない。この1年をかけて、自分と生活を変えていかないといけないように思う。今より生活のペースを早めること（早寝早起き)。少しずつでも子供と勉強の習慣をつけること。自分の健康と体力を保つこと。お酒を減らすこと。&lt;/p&gt;&#xA;&lt;p&gt;働いて、自炊して、本を読んで、英語を勉強して、山を登って。子供が小学校を卒業するまで。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;今日のご飯&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;遅めの朝ごはん: バターをつけたバケット&lt;/li&gt;&#xA;&lt;li&gt;夜ご飯: なめこと白菜のお味噌汁、里芋と鶏肉の煮物&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;april-6-2025-working-cooking-reading-studying-english-and-climbing-mountains&#34;&gt;&#xA;  April 6, 2025 Working, cooking, reading, studying English, and climbing mountains&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#april-6-2025-working-cooking-reading-studying-english-and-climbing-mountains&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This week marked the start of the new school year.&lt;/p&gt;&#xA;&lt;p&gt;It’s my child’s final year in preschool. In one more year, my kid will be in elementary school. On Saturday, I had the chance to talk with a parent whose child started elementary school this spring.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;働いて、自炊して、本を読んで、英語を勉強して、山を登って&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../IMG_1504.jpg&#34; alt=&#34;the bloom of cherry tree in a park&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;今週、新年度になった。&lt;/p&gt;&#xA;&lt;p&gt;子どもは保育園最後の年度。あっという間に、小学生まであと一年。土曜日にこの春に子供が小学生になった親と会話する機会があった。&lt;/p&gt;&#xA;&lt;p&gt;小学生は、保育園と違い、大変になることがあるとのこと。学童と学校とそれぞれにそれぞれの担当がいるので、二つの連絡先があり、管理が煩雑になる。小学校では登校時間が15分くらいの幅の中で決まっているため、その時間までに登校しなければいけないこと。宿題があるので、夜はそれに付き合って、それでも次の日のために、早く寝かさなければいけないこと。その方は変化に備えて、4月正社員から、業務委託に変更したと教えてくれた。&lt;/p&gt;&#xA;&lt;p&gt;自分は一人でやりくりしなければいけない。この1年をかけて、自分と生活を変えていかないといけないように思う。今より生活のペースを早めること（早寝早起き)。少しずつでも子供と勉強の習慣をつけること。自分の健康と体力を保つこと。&lt;/p&gt;&#xA;&lt;p&gt;働いて、自炊して、本を読んで、英語を勉強して、山を登って。子供が小学校を卒業するまで。&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;今日のご飯&#xA;- 遅めの朝ごはん: バターをつけたバケット&#xA;- 夜ご飯: なめこと白菜のお味噌汁、里芋と鶏肉の煮物&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;working-cooking-reading-studying-english-and-climbing-mountains&#34;&gt;Working, cooking, reading, studying English, and climbing mountains&lt;/h2&gt;&#xA;&lt;p&gt;This week marked the start of the new school year.&lt;/p&gt;&#xA;&lt;p&gt;It’s my child’s final year in preschool. In one more year, my kid will be in elementary school. On Saturday, I had the chance to talk with a parent whose child started elementary school this spring.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,9 @@
 baseURL = 'https://ukitazume.github.io/diary/'
 languageCode = 'en-us'
 title = 'Diary'
-theme = 'hugo-book'
+theme = 'archie'
 
 [caches]
   [caches.images]
       dir = ':cacheDir/images'
+
