@@ -5,7 +5,8 @@ bookComments: false
 bookSearchExclude: false
 ---
 
-# 2025/04/06 働いて、自炊して、本を読んで、英語を勉強して、山を登って
+# 2025/04/06
+**働いて、自炊して、本を読んで、英語を勉強して、山を登って**
 
 IMG_1504.jpg
 
@@ -26,7 +27,8 @@ IMG_1504.jpg
 
 
 ---
-## April 6, 2025 Working, cooking, reading, studying English, and climbing mountains
+## April 6, 2025
+**Working, cooking, reading, studying English, and climbing mountains**
 
 
 This week marked the start of the new school year.
@@ -42,6 +44,7 @@ Work, cook, read, study English, and climb mountains—until my child graduates 
 
 
 Today’s Meals
+
 	•	Late breakfast: Baguette with butter
 	•	Dinner: Miso soup with nameko mushrooms and Chinese cabbage, simmered taro and chicken
 
